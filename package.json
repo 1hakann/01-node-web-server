@@ -1,0 +1,11 @@
+{
+  "name": "basic-web-server-app",
+  "version": "1.0.0",
+  "description": "Basic web server app. My first node app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hakan Çakmak",
+  "license": "MIT"
+}
